@@ -1,1 +1,1 @@
-# gerador-de-sewnha
+# inteligencia-artificial
